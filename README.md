@@ -15,4 +15,4 @@ It has been tested on Pythonista version 3 on the iPad as well.
 
 The script writes out a plain HTML file named: envoy-inventory.html , then opens that html in the local Web browser.
 
-Screenshots and other information may be made available at: http://www.kenclifton.com
+Screenshots and other information may be made available at: http://www.kenclifton.com/wordpress/2017/06/envoy-s-local-solar-inverter-inventory-and-status/
