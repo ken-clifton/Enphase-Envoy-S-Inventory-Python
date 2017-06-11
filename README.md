@@ -15,5 +15,6 @@ This Python script was created to run on Python 3.5 on most operating systems.
 It has been tested on Pythonista version 3 on the iPad as well.
 
 The script writes out a plain HTML file named: envoy-inventory.html , then opens that html in the local Web browser.
+![Example of the Inventory Information](show-inventory-demo.png)
 
-Screenshots and other information may be made available at: http://www.kenclifton.com/wordpress/2017/06/envoy-s-local-solar-inverter-inventory-and-status/
+More screenshots and more information may be made available at: http://www.kenclifton.com/wordpress/2017/06/envoy-s-local-solar-inverter-inventory-and-status/
